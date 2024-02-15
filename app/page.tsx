@@ -60,7 +60,7 @@ export default function Home() {
 
   return (
     <main className="p-12">
-      <p className="text-xl mb-2">Fal SDXL Turbo</p>
+      <p className="text-xl mb-2">Fal Pixio Realtime Draw</p>
       <input
         className='border rounded-lg p-2 w-full mb-2'
         value={input}
